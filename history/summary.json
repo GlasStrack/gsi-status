@@ -1,8 +1,8 @@
 [
   {
     "name": "Glas Strack API",
-    "url": "$API_URL/public/docs/",
-    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
+    "url": "https://$API_URL/public/docs/",
+    "icon": "https://icons.duckduckgo.com/ip3/$api_url.ico",
     "slug": "glas-strack-api",
     "status": "up",
     "uptime": "100.00%",
@@ -10,11 +10,29 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 902,
-    "timeDay": 778,
-    "timeWeek": 902,
-    "timeMonth": 902,
-    "timeYear": 902,
+    "time": 881,
+    "timeDay": 772,
+    "timeWeek": 881,
+    "timeMonth": 881,
+    "timeYear": 881,
+    "dailyMinutesDown": {}
+  },
+  {
+    "name": "Glas Strack API QS",
+    "url": "https://qs.$API_URL/public/docs/",
+    "icon": "https://icons.duckduckgo.com/ip3/qs.$api_url.ico",
+    "slug": "glas-strack-api-qs",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 693,
+    "timeDay": 693,
+    "timeWeek": 693,
+    "timeMonth": 693,
+    "timeYear": 693,
     "dailyMinutesDown": {}
   }
 ]
