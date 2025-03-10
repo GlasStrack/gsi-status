@@ -7,6 +7,8 @@ sites:
     url: https://$API_URL/public/docs/
   - name: API QS Documentation
     url: https://qs.$API_URL/public/docs/
+  - name: API QS
+    url: https://qs.$API_URL/health
   - name: Website
     url: https://www.glas-strack.de/
 assignees: # Users to assign downtime issues
