@@ -4,7 +4,7 @@ repo: gsi-status # The name of this repository
 
 sites:
   - name: Glas Strack API
-    url: https://api.gsi-portal.de/docs/
+    url: https://api.gsi-portal.de/public/docs/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
