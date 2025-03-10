@@ -9,6 +9,8 @@ sites:
     url: https://qs.$API_URL/public/docs/
   - name: Website
     url: https://www.glas-strack.de/
+assignees: # Users to assign downtime issues
+  - SchoppAx-GS
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
