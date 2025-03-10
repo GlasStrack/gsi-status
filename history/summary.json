@@ -1,8 +1,8 @@
 [
   {
     "name": "Glas Strack API",
-    "url": "https://api.gsi-portal.de/public/docs/",
-    "icon": "https://icons.duckduckgo.com/ip3/api.gsi-portal.de.ico",
+    "url": "$API_URL/public/docs/",
+    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "glas-strack-api",
     "status": "up",
     "uptime": "100.00%",
@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 941,
-    "timeDay": 814,
-    "timeWeek": 941,
-    "timeMonth": 941,
-    "timeYear": 941,
+    "time": 902,
+    "timeDay": 778,
+    "timeWeek": 902,
+    "timeMonth": 902,
+    "timeYear": 902,
     "dailyMinutesDown": {}
   }
 ]
