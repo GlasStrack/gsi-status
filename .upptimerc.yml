@@ -3,10 +3,12 @@ owner: GlasStrack # Your GitHub organization or username, where this repository 
 repo: gsi-status # The name of this repository
 
 sites:
-  - name: Glas Strack API
+  - name: API Documentation
     url: https://$API_URL/public/docs/
-  - name: Glas Strack API QS
+  - name: API QS Documentation
     url: https://qs.$API_URL/public/docs/
+  - name: Website
+    url: https://www.glas-strack.de/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
@@ -20,6 +22,9 @@ status-website:
       href: /
     - title: Glas Strack
       href: https://glas-strack.de
+
+i18n:
+  footer: Glas Strack Status Page
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
