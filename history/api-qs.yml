@@ -1,7 +1,7 @@
 url: https://qs.$API_URL/health
-status: down
-code: 500
-responseTime: 155
-lastUpdated: 2025-03-12T07:38:25.511Z
+status: up
+code: 200
+responseTime: 275
+lastUpdated: 2025-03-12T07:46:08.961Z
 startTime: 2025-03-10T23:38:08.456Z
 generator: Upptime <https://github.com/upptime/upptime>
