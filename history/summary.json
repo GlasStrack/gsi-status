@@ -40,18 +40,20 @@
     "url": "https://qs.$API_URL/health",
     "icon": "https://icons.duckduckgo.com/ip3/qs.$api_url.ico",
     "slug": "api-qs",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 151,
-    "timeDay": 140,
-    "timeWeek": 151,
-    "timeMonth": 151,
-    "timeYear": 151,
-    "dailyMinutesDown": {}
+    "time": 152,
+    "timeDay": 148,
+    "timeWeek": 152,
+    "timeMonth": 152,
+    "timeYear": 152,
+    "dailyMinutesDown": {
+      "2025-03-12": 0
+    }
   },
   {
     "name": "Website",
