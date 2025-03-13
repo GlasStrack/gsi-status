@@ -20,7 +20,7 @@ status-website:
   cname: status.gsi-portal.de
   # baseUrl: /your-repo-name
   logoUrl: https://gsi-portal.de/images/logo.svg
-  favicon: https://example.com/status_icon_x192.png
+  favicon: https://gsi-portal.de/images/status_icon_x192.png
   faviconSvg: https://gsi-portal.de/images/status_icon.svg
   name: Glas Strack Status
   navbar:
