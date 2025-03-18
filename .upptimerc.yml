@@ -1,0 +1,39 @@
+# Change these first
+owner: GlasStrack # Your GitHub organization or username, where this repository lives
+repo: gsi-status # The name of this repository
+
+sites:
+  - name: REST API
+    url: https://$API_URL/health
+    icon: https://icons.duckduckgo.com/ip3/$API_URL.ico
+  - name: Developer Docs
+    url: https://$API_URL/docs/
+    icon: https://icons.duckduckgo.com/ip3/$API_URL.ico
+  - name: QS REST API
+    url: https://qs.$API_URL/health
+    icon: https://icons.duckduckgo.com/ip3/qs.$API_URL.ico
+  - name: Website
+    url: https://www.glas-strack.de/
+assignees: # Users to assign downtime issues
+  - SchoppAx-GS
+
+status-website:
+  # Add your custom domain name, or remove the `cname` line if you don't have a domain
+  # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
+  cname: status.gsi-portal.de
+  # baseUrl: /your-repo-name
+  logoUrl: https://gsi-portal.de/images/logo.svg
+  favicon: https://gsi-portal.de/images/status_icon_x192.png
+  faviconSvg: https://gsi-portal.de/images/status_icon.svg
+  name: Glas Strack Status
+  navbar:
+    - title: Status
+      href: /
+    - title: Glas Strack
+      href: https://glas-strack.de
+
+i18n:
+  footer: Glas Strack Status Page
+
+# Upptime also supports notifications, assigning issues, and more
+# See https://upptime.js.org/docs/configuration
