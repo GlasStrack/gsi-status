@@ -5,13 +5,10 @@ repo: gsi-status # The name of this repository
 sites:
   - name: REST API
     url: https://$API_URL/health
-    icon: https://icons.duckduckgo.com/ip3/$API_URL.ico
   - name: Developer Docs
     url: https://$API_URL/docs/
-    icon: https://icons.duckduckgo.com/ip3/$API_URL.ico
   - name: QS REST API
     url: https://qs.$API_URL/health
-    icon: https://icons.duckduckgo.com/ip3/qs.$API_URL.ico
   - name: Website
     url: https://www.glas-strack.de/
 assignees: # Users to assign downtime issues
