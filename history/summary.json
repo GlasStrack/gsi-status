@@ -58,7 +58,7 @@
     "url": "https://www.glas-strack.de/",
     "icon": "https://icons.duckduckgo.com/ip3/www.glas-strack.de.ico",
     "slug": "website",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -69,6 +69,8 @@
     "timeWeek": 1833,
     "timeMonth": 1874,
     "timeYear": 1810,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-05-01": 0
+    }
   }
 ]
