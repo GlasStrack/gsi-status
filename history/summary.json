@@ -6,8 +6,8 @@
     "slug": "rest-api",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 837,
@@ -15,16 +15,18 @@
     "timeWeek": 788,
     "timeMonth": 947,
     "timeYear": 837,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-06-12": 1
+    }
   },
   {
     "name": "Developer Docs",
     "url": "https://$API_URL/docs/",
     "icon": "https://icons.duckduckgo.com/ip3/$api_url.ico",
     "slug": "developer-docs",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -33,16 +35,18 @@
     "timeWeek": 113,
     "timeMonth": 188,
     "timeYear": 146,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-06-12": 0
+    }
   },
   {
     "name": "QS REST API",
     "url": "https://qs.$API_URL/health",
     "icon": "https://icons.duckduckgo.com/ip3/qs.$api_url.ico",
     "slug": "qs-rest-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -51,7 +55,9 @@
     "timeWeek": 765,
     "timeMonth": 912,
     "timeYear": 825,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-06-12": 0
+    }
   },
   {
     "name": "Website",
@@ -59,11 +65,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.glas-strack.de.ico",
     "slug": "website",
     "status": "up",
-    "uptime": "97.59%",
+    "uptime": "97.61%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "93.64%",
-    "uptimeYear": "97.59%",
+    "uptimeYear": "97.61%",
     "time": 1931,
     "timeDay": 2534,
     "timeWeek": 1778,
