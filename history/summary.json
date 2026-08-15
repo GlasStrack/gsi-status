@@ -4,28 +4,30 @@
     "url": "https://$API_URL/health",
     "icon": "https://icons.duckduckgo.com/ip3/$api_url.ico",
     "slug": "rest-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.81%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 837,
     "timeDay": 584,
     "timeWeek": 667,
     "timeMonth": 774,
     "timeYear": 823,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-08-15": 3
+    }
   },
   {
     "name": "Developer Docs",
     "url": "https://$API_URL/docs/",
     "icon": "https://icons.duckduckgo.com/ip3/$api_url.ico",
     "slug": "developer-docs",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 193,
@@ -33,7 +35,9 @@
     "timeWeek": 362,
     "timeMonth": 419,
     "timeYear": 213,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-08-15": 1
+    }
   },
   {
     "name": "QS REST API",
