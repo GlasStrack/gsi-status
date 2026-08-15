@@ -1,7 +1,7 @@
 url: https://$API_URL/docs/
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2026-08-15T03:07:41.686Z
+status: up
+code: 200
+responseTime: 459
+lastUpdated: 2026-08-15T03:48:50.935Z
 startTime: 2025-03-18T08:25:48.834Z
 generator: Upptime <https://github.com/upptime/upptime>
