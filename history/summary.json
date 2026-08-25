@@ -4,20 +4,20 @@
     "url": "https://$API_URL/health",
     "icon": "https://icons.duckduckgo.com/ip3/$api_url.ico",
     "slug": "rest-api",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.90%",
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "97.57%",
+    "uptimeWeek": "99.65%",
+    "uptimeMonth": "99.82%",
     "uptimeYear": "99.99%",
-    "time": 835,
-    "timeDay": 831,
-    "timeWeek": 787,
-    "timeMonth": 760,
-    "timeYear": 825,
+    "time": 839,
+    "timeDay": 1450,
+    "timeWeek": 998,
+    "timeMonth": 817,
+    "timeYear": 830,
     "dailyMinutesDown": {
       "2026-08-15": 43,
-      "2026-08-25": 1
+      "2026-08-25": 35
     }
   },
   {
